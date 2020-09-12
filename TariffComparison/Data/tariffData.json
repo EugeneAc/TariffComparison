@@ -1,0 +1,14 @@
+﻿[
+  {
+    "name": "basic electricity tariff",
+    "annualCost": 60,
+    "consumptionCost": 0.22,
+    "consumptionThreshold": 0
+  },
+  {
+    "name": "Packaged tariff",
+    "annualCost": 800,
+    "consumptionCost": 0.30,
+    "consumptionThreshold": 4000
+  }
+]
